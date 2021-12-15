@@ -12,7 +12,9 @@
         "default_title": "Nepali News Portal Ad Blocker",
         "default_popup": "popup/popup.html"
     },
-    "permissions": [],
+    "permissions": [
+        "storage"
+    ],
     "host_permissions": [
         "*://*/*"
     ],
