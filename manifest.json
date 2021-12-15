@@ -1,0 +1,26 @@
+{
+    "manifest_version": 3,
+    "name": "Nepali News Portal Ad Blocker",
+    "description": "Remove Ad from Nepali News Portal",
+    "version": "0.0.1",
+    "action": {
+        "default_title": "Nepali News Portal Ad Blocker",
+        "default_popup": "popup/popup.html"
+    },
+    "permissions": [],
+    "host_permissions": [
+        "*://*/*"
+    ],
+    "content_scripts": [
+        {
+            "js": [
+                "scripts/jquery-3.6.0.min.js",
+                "scripts/main.js"
+            ],
+            "matches": [
+                "*://*.onlinekhabar.com/*",
+                "*://*.setopati.com/*"
+            ]
+        }
+    ]
+}
