@@ -3,6 +3,11 @@
     "name": "Nepali News Portal Ad Blocker",
     "description": "Remove Ad from Nepali News Portal",
     "version": "0.0.1",
+    "icons": {
+        "16": "logo/logo.png",
+        "48": "logo/logo.png",
+        "128": "logo/logo.png"
+    },
     "action": {
         "default_title": "Nepali News Portal Ad Blocker",
         "default_popup": "popup/popup.html"
