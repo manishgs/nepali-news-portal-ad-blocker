@@ -24,7 +24,24 @@
             ],
             "matches": [
                 "*://*.onlinekhabar.com/*",
-                "*://*.setopati.com/*"
+                "*://*.setopati.com/*",
+                "*://*.ratopati.com/*",
+                "*://*.ekantipur.com/*",
+                "*://*.annapurnapost.com/*",
+                "*://*.baahrakhari.com/*",
+                "*://*.news24nepal.tv/*",
+                "*://*.nagariknews.nagariknetwork.com/*",
+                "*://*.etajakhabar.com/*",
+                "*://*.karobardaily.com/*",
+                "*://*.sharesansar.com/*",
+                "*://*.merolagani.com/*",
+                "*://*.osnepal.com/*",
+                "*://*.bigulnews.tv/*",
+                "*://*.lokaantar.com/*",
+                "*://*.nayapatrikadaily.com/*",
+                "*://*.thahakhabar.com/*",
+                "*://*.dcnepal.com/*",
+                "*://*.nepalkhabar.com/*"
             ]
         }
     ]
